@@ -22,7 +22,7 @@ Auto Trading tool for NeoFly
 Before using you need to have at least some goods generated at an airport by NeoFly. You can go into NeoFly any airport market and refresh goods to force this generation
 
 ## License
-This software is licensed under Apach license 2.0
+This software is licensed under Apache license 2.0
 
 ## If you like my work, I like coffee :)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3F8XX7KXN6QQ)
