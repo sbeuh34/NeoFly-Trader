@@ -6,6 +6,10 @@ Auto Trading tool for NeoFly
 * Basically you just have to launch the software after your NeoFly and enter your destination ICAO
 * If you fly a main mission you can put its payload inside the Mission Payload field and you're ready to know what to choose to fill your remaining empty payload
 * You can choose which plane you're going to fly. It will auto update all the associated weights
+* It is possible to buy goods directly from this application (All proposed goods or only an amount by changing the value in the "Buy/Qty" column)
+* The tool propose you a loadsheet:
+	* Simple using load percentage
+	* Detailled using passenger /cargo Weights
 
 ![](NeoFlyTrader.gif)
 
@@ -19,7 +23,7 @@ Auto Trading tool for NeoFly
 	* Airports can randomly search or sell the good
 
 ## Issue
-Before using you need to have at least some goods generated at an airport by NeoFly. You can go into NeoFly any airport market and refresh goods to force this generation
+NeoFly can not update the money on NF UI directly after using the buy function of this tool. It will gets updated when you'll arrive at destination airport!
 
 ## License
 This software is licensed under Apache license 2.0
